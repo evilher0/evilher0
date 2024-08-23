@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @evilhero
+- 👋 Hi, I’m Ethan Reese, a.k.a evilher0
 - 👀 I’m interested in unity and godot
 - 🌱 I’m currently learning unity more
-- 💞️ I’m looking to collaborate on unity projects
-- 📫 How to reach me : discord = evilher086#6082
+- 📫 How to reach me : Telegram ID: @evilher0
 
 <!---
 evilher0/evilher0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
